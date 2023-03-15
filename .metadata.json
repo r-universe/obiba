@@ -1,9 +1,5 @@
 [
   {
-    "package": "micar",
-    "oncran": true
-  },
-  {
     "package": "opalr",
     "oncran": true
   },
@@ -13,6 +9,10 @@
   },
   {
     "package": "s3.resourcer",
+    "oncran": true
+  },
+  {
+    "package": "micar",
     "oncran": true
   }
 ]
