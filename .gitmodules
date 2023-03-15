@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "micar"]
+	path = micar
+	url = https://github.com/obiba/micar
+	shallow = true
+	registered = true
 [submodule "opalr"]
 	path = opalr
 	url = https://github.com/obiba/opalr
@@ -16,10 +21,5 @@
 [submodule "s3.resourcer"]
 	path = s3.resourcer
 	url = https://github.com/obiba/s3.resourcer
-	shallow = true
-	registered = true
-[submodule "micar"]
-	path = micar
-	url = https://github.com/obiba/micar
 	shallow = true
 	registered = true
