@@ -8,6 +8,9 @@
 [submodule "micar"]
 	path = micar
 	url = https://github.com/obiba/micar
+[submodule "odbc.resourcer"]
+	path = odbc.resourcer
+	url = https://github.com/obiba/odbc.resourcer
 [submodule "opalr"]
 	path = opalr
 	url = https://github.com/obiba/opalr
