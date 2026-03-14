@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "amberr"]
-	path = amberr
-	url = https://github.com/obiba/amberr
 [submodule "micar"]
 	path = micar
 	url = https://github.com/obiba/micar
